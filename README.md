@@ -7,4 +7,4 @@ Geliştirirken **Flutter** kullanıldı.
 
 ## Nasıl görünüyor
 
-![minder-thumbnail](https://im6.ezgif.com/tmp/ezgif-6-c3f035aff5a6.gif)
+![minder-thumbnail](https://www.linkpicture.com/q/minder-20200917132752.gif)
